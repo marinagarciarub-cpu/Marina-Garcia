@@ -3,24 +3,24 @@
 ## 👩‍💻 Hello there, I'm Marina!
 
 **Software Engineer | Front-End Developer | Cloud & Cybersecurity Enthusiast**
-📍 Madrid, España
+📍 Madrid, Spain
 📧 Marinagarciarub@gmail.com
 📱 608697842
 🔗 [LinkedIn: Marina García Rubio](www.linkedin.com/in/marina-garcía-rubio-a42863278)
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Desarrolladora de software y futura Ingeniera de Software, con experiencia práctica en **Cloud Computing**, **Ciberseguridad**, **Desarrollo Web** y **Análisis de Sistemas**.
+Software Developer and future Software Engineer, with practical experience in **Cloud Computing**, **Cybersecurity**, **Web Development**, and **Systems Analysis**.
 
-Mi pasión es construir **soluciones tecnológicas escalables y seguras**, trabajar en equipo y aplicar continuamente nuevas herramientas de la **ingeniería del software** y la **seguridad informática**.
+My passion is building **scalable and secure technological solutions**, working in a team, and continuously applying new tools related to **software engineering** and **information security**.
 
-Actualmente contribuyo como Business Analyst en Qaracter y he aplicado mis conocimientos técnicos en prácticas como Analista SOC en Babel.
+I currently contribute as a Business Analyst at Qaracter and have applied my technical knowledge during an internship as an SOC Analyst at Babel.
 
 ---
 
-### 🎓 Educación
+### 🎓 Education
 
 * **B.S. Software Engineering**
     * U-tad University (2021 – 2025)
@@ -31,16 +31,15 @@ Actualmente contribuyo como Business Analyst en Qaracter y he aplicado mis conoc
 
 ---
 
-### 💼 Experiencia Profesional
+### 💼 Professional Experience
 
 #### **Qaracter — Business Analyst**
-* **Actualmente**
-    * *\[Añadir 1-2 puntos de logros/responsabilidades]*
+* **Currently**
 
 #### **Babel — Security Operations Center (SOC), Level 1**
 * **Internship (03/2025 – 07/2025)**
-    * Monitoreo y análisis de eventos de seguridad (SIEM: QRadar) para la detección temprana de amenazas.
-    * Gestión de tickets e implementación de respuestas a incidentes de seguridad Nivel 1.
+    * Monitoring and analysis of security events (SIEM: QRadar) for early threat detection.
+    * Ticket management and implementation of Level 1 security incident responses.
 
 ---
 
@@ -52,7 +51,7 @@ Actualmente contribuyo como Business Analyst en Qaracter y he aplicado mis conoc
 * **DevOps & Cloud:** `AWS` | `Docker` | `Kubernetes` | `CI/CD` | `GitHub` | `GitLab`
 * **Cybersecurity:** `Ethical Hacking` | `Forensic Analysis` | `SQLi` | `Kali Linux` | `Cortex` | `QRadar (SIEM)` | `Zabbix` | `GLPI`
 * **Databases:** `MySQL` | `MongoDB`
-* **Otros:** `IoT` | `Design Patterns` | `OOP`
+* **Others:** `IoT` | `Design Patterns` | `OOP`
 
 #### **Soft Skills**
 
@@ -60,11 +59,11 @@ Actualmente contribuyo como Business Analyst en Qaracter y he aplicado mis conoc
 
 ---
 
-### 🌍 Idiomas
+### 🌍 Languages
 
-* **Español:** Nativo
-* **Inglés:** C1 (Experiencia viviendo en Arizona, USA)
+* **Spanish:** Native
+* **English:** C1 (Experience living in Arizona, USA)
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+Thank you for visiting my profile! 🚀
