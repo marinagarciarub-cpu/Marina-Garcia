@@ -1,4 +1,8 @@
-## 👩‍💻 Hello there, I'm Marina 
+<img width="1200" height="271" alt="image" src="https://github.com/user-attachments/assets/605c0be8-35f9-4656-8a0e-a2f8e4b3129d" />
+<img width="109" height="150" alt="image" src="https://github.com/user-attachments/assets/30636491-fd4b-4185-bdce-f57078b5ac55" />
+
+
+## 👩‍💻 Hello there, I'm Marina!
 
 **Software Engineer | Front-End Developer | Cloud & Cybersecurity Enthusiast**
 📍 Madrid, España
